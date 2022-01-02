@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				71,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN POSE"
+		},
+		{
+			"offsets": [
+				-6,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP POSE"
+		},
+		{
+			"offsets": [
+				2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " LEFT POSE"
+		},
+		{
+			"offsets": [
+				-40,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " RIGHT POSE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": " IDLE POSE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "hellbeats/HellBeatsMason",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "hell",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

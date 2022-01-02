@@ -1,0 +1,65 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "gf cuffed"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				1
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "gf cuffed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "freddy/Cuffed-GF-Bop",
+	"position": [
+		10,
+		190
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

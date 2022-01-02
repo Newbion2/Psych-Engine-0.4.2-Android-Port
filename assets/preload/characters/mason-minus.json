@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Minus Idle Pose"
+		},
+		{
+			"offsets": [
+				51,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Minus Left Pose"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Minus Right Pose"
+		},
+		{
+			"offsets": [
+				-70,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Minus Down Pose"
+		},
+		{
+			"offsets": [
+				-62,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Minus Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "freddy/MinusGeese-Phase1",
+	"position": [
+		-30,
+		20
+	],
+	"healthicon": "mason",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		42,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mason Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mason Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				271,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mason Left"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mason Down"
+		},
+		{
+			"offsets": [
+				20,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mason Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/masoncorrupt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mason-corrupted",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		6
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sus Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-365
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sus Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sus down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-279
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sus Up pose instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-313
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sus Right instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CrewmateGeese",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		42,
+		206
+	],
+	"camera_position": [
+		-140,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

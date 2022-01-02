@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sasha_Idle instance"
+		},
+		{
+			"offsets": [
+				230,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sasha_Left instance"
+		},
+		{
+			"offsets": [
+				18,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sasha_Right instance"
+		},
+		{
+			"offsets": [
+				59,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sasha_Down instance"
+		},
+		{
+			"offsets": [
+				225,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sasha_Up instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sasha_Assets",
+	"position": [
+		-20,
+		-40
+	],
+	"healthicon": "icon-blantad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		255
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
