@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iamdeadbop.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeadBop0000" x="0" y="0" width="791" height="523" pivotX="-84.85" pivotY="255.05" frameX="-19" frameY="-9" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0001" x="791" y="0" width="798" height="523" frameX="-12" frameY="-9" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0002" x="1589" y="0" width="807" height="524" frameX="-3" frameY="-9" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0003" x="2396" y="0" width="792" height="526" frameX="-18" frameY="-7" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0004" x="3188" y="0" width="800" height="527" frameX="-10" frameY="-6" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0005" x="0" y="527" width="810" height="530" frameX="0" frameY="-3" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0006" x="810" y="527" width="796" height="533" frameX="-14" frameY="0" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0007" x="1606" y="527" width="802" height="529" frameX="-8" frameY="-4" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0008" x="2408" y="527" width="809" height="528" frameX="-1" frameY="-5" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0009" x="3217" y="527" width="793" height="527" frameX="-17" frameY="-6" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0010" x="0" y="1060" width="800" height="527" frameX="-10" frameY="-6" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0011" x="800" y="1060" width="807" height="525" frameX="-3" frameY="-7" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0012" x="1607" y="1060" width="798" height="523" frameX="-12" frameY="-9" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0013" x="2405" y="1060" width="807" height="523" frameX="-3" frameY="-9" frameWidth="810" frameHeight="533"/>
+	<SubTexture name="DeadBop0014" x="0" y="0" width="791" height="523" frameX="-19" frameY="-9" frameWidth="810" frameHeight="533"/>
+</TextureAtlas>
