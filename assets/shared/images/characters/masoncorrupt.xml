@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fullcorrupt.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mason Down 0000" x="0" y="0" width="606" height="721" pivotX="486.55" pivotY="431.45" frameX="-44" frameY="0" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0001" x="0" y="0" width="606" height="721" frameX="-44" frameY="0" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0002" x="606" y="0" width="622" height="645" frameX="-30" frameY="-68" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0003" x="606" y="0" width="622" height="645" frameX="-30" frameY="-68" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0004" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0005" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0006" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0007" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0008" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0009" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0010" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0011" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Down 0012" x="1228" y="0" width="638" height="705" frameX="0" frameY="-16" frameWidth="652" frameHeight="721"/>
+	<SubTexture name="Mason Idle Dance0000" x="1866" y="0" width="554" height="735" pivotX="470.6" pivotY="454" frameX="-28" frameY="-9" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0001" x="1866" y="0" width="554" height="735" frameX="-28" frameY="-9" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0002" x="2420" y="0" width="561" height="747" frameX="-34" frameY="0" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0003" x="2420" y="0" width="561" height="747" frameX="-34" frameY="0" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0004" x="2981" y="0" width="605" height="664" frameX="0" frameY="-74" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0005" x="2981" y="0" width="605" height="664" frameX="0" frameY="-74" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0006" x="3586" y="0" width="578" height="715" frameX="-15" frameY="-33" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0007" x="3586" y="0" width="578" height="715" frameX="-15" frameY="-33" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0008" x="1866" y="0" width="554" height="735" frameX="-28" frameY="-9" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0009" x="1866" y="0" width="554" height="735" frameX="-28" frameY="-9" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0010" x="4164" y="0" width="549" height="747" frameX="-34" frameY="0" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0011" x="4164" y="0" width="549" height="747" frameX="-34" frameY="0" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Idle Dance0012" x="1866" y="0" width="554" height="735" frameX="-28" frameY="-9" frameWidth="605" frameHeight="748"/>
+	<SubTexture name="Mason Left0000" x="4713" y="0" width="587" height="707" pivotX="705.1" pivotY="417.75" frameX="-124" frameY="0" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0001" x="4713" y="0" width="587" height="707" frameX="-124" frameY="0" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0002" x="5300" y="0" width="635" height="712" frameX="-73" frameY="0" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0003" x="5300" y="0" width="635" height="712" frameX="-73" frameY="0" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0004" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0005" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0006" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0007" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0008" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0009" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0010" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0011" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Left0012" x="5935" y="0" width="735" height="705" frameX="0" frameY="-1" frameWidth="735" frameHeight="712"/>
+	<SubTexture name="Mason Right0000" x="6670" y="0" width="827" height="740" pivotX="487.15" pivotY="499.05" frameX="-15" frameY="-49" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0001" x="6670" y="0" width="827" height="740" frameX="-15" frameY="-49" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0002" x="0" y="747" width="1153" height="783" frameX="0" frameY="0" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0003" x="0" y="747" width="1153" height="783" frameX="0" frameY="0" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0004" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0005" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0006" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0007" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0008" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0009" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0010" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0011" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Right0012" x="1153" y="747" width="2574" height="888" frameX="-8" frameY="-17" frameWidth="2582" frameHeight="905"/>
+	<SubTexture name="Mason Sing Up0000" x="3727" y="747" width="438" height="815" pivotX="358.55" pivotY="430.75" frameX="-90" frameY="0" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0001" x="3727" y="747" width="438" height="815" frameX="-90" frameY="0" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0002" x="4165" y="747" width="525" height="795" frameX="-73" frameY="-19" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0003" x="4690" y="747" width="525" height="795" frameX="-73" frameY="-19" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0004" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0005" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0006" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0007" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0008" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0009" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0010" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0011" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0012" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0013" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0014" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0015" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0016" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0017" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0018" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0019" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0020" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0021" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0022" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0023" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0024" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0025" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0026" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0027" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0028" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0029" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0030" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0031" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0032" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0033" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0034" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0035" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0036" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0037" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0038" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0039" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0040" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0041" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0042" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0043" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0044" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0045" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0046" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0047" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0048" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0049" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0050" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0051" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0052" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0053" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0054" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0055" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0056" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0057" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0058" x="5215" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0059" x="5843" y="747" width="628" height="806" frameX="0" frameY="-9" frameWidth="628" frameHeight="815"/>
+	<SubTexture name="Mason Sing Up0060" x="6471" y="747" width="0" height="0" frameX="-358" frameY="-430" frameWidth="628" frameHeight="815"/>
+</TextureAtlas>

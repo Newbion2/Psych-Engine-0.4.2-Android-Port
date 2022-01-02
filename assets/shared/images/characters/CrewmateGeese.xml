@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrewmateGeese.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sus Idle instance 10000" x="0" y="0" width="595" height="410" frameX="-4" frameY="-4" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10001" x="0" y="0" width="595" height="410" frameX="-4" frameY="-4" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10002" x="595" y="0" width="606" height="403" frameX="-3" frameY="-11" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10003" x="595" y="0" width="606" height="403" frameX="-3" frameY="-11" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10004" x="1201" y="0" width="593" height="408" frameX="-2" frameY="-6" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10005" x="1794" y="0" width="584" height="408" frameX="-2" frameY="-6" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10006" x="2378" y="0" width="561" height="413" frameX="-2" frameY="-1" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10007" x="2939" y="0" width="561" height="413" frameX="-2" frameY="-1" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10008" x="3500" y="0" width="559" height="413" frameX="0" frameY="-1" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10009" x="0" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10010" x="559" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10011" x="1118" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10012" x="1118" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10013" x="1677" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10014" x="1677" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10015" x="2236" y="413" width="559" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10016" x="2795" y="413" width="563" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10017" x="3358" y="413" width="563" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10018" x="0" y="827" width="597" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10019" x="0" y="827" width="597" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10020" x="597" y="827" width="591" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10021" x="1188" y="827" width="571" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10022" x="1188" y="827" width="571" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10023" x="1759" y="827" width="569" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10024" x="1759" y="827" width="569" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10025" x="1759" y="827" width="569" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10026" x="1759" y="827" width="569" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Idle instance 10027" x="1759" y="827" width="569" height="414" frameX="0" frameY="0" frameWidth="609" frameHeight="414"/>
+	<SubTexture name="Sus Left instance 10000" x="2328" y="827" width="592" height="359" frameX="0" frameY="0" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10001" x="2328" y="827" width="592" height="359" frameX="0" frameY="0" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10002" x="2328" y="827" width="592" height="359" frameX="0" frameY="0" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10003" x="2920" y="827" width="595" height="362" frameX="-11" frameY="-1" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10004" x="2920" y="827" width="595" height="362" frameX="-11" frameY="-1" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10005" x="0" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10006" x="0" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10007" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10008" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10009" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10010" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10011" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10012" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10013" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Left instance 10014" x="597" y="1241" width="597" height="357" frameX="-11" frameY="-5" frameWidth="608" frameHeight="363"/>
+	<SubTexture name="Sus Right instance 10000" x="1194" y="1241" width="598" height="413" frameX="-15" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10001" x="1194" y="1241" width="598" height="413" frameX="-15" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10002" x="1194" y="1241" width="598" height="413" frameX="-15" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10003" x="1792" y="1241" width="594" height="404" frameX="-2" frameY="-9" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10004" x="1792" y="1241" width="594" height="404" frameX="-2" frameY="-9" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10005" x="2386" y="1241" width="594" height="412" frameX="0" frameY="-1" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10006" x="2386" y="1241" width="594" height="412" frameX="0" frameY="-1" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10007" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10008" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10009" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10010" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10011" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10012" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10013" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Right instance 10014" x="2980" y="1241" width="594" height="413" frameX="0" frameY="0" frameWidth="613" frameHeight="413"/>
+	<SubTexture name="Sus Up pose instance 10000" x="0" y="1654" width="596" height="450" frameX="-1" frameY="0" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10001" x="596" y="1654" width="596" height="450" frameX="-1" frameY="0" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10002" x="1192" y="1654" width="596" height="437" frameX="-1" frameY="-13" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10003" x="1788" y="1654" width="602" height="423" frameX="0" frameY="-28" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10004" x="1788" y="1654" width="602" height="423" frameX="0" frameY="-28" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10005" x="2390" y="1654" width="604" height="412" frameX="-1" frameY="-39" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10006" x="2390" y="1654" width="604" height="412" frameX="-1" frameY="-39" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10007" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10008" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10009" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10010" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10011" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10012" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10013" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus Up pose instance 10014" x="2994" y="1654" width="602" height="415" frameX="-3" frameY="-36" frameWidth="605" frameHeight="451"/>
+	<SubTexture name="Sus down instance 10000" x="0" y="2104" width="573" height="369" frameX="0" frameY="-26" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10001" x="573" y="2104" width="573" height="369" frameX="0" frameY="-26" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10002" x="1146" y="2104" width="573" height="359" frameX="0" frameY="-36" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10003" x="1719" y="2104" width="565" height="360" frameX="-12" frameY="-34" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10004" x="1719" y="2104" width="565" height="360" frameX="-12" frameY="-34" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10005" x="2284" y="2104" width="562" height="368" frameX="-16" frameY="-26" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10006" x="2284" y="2104" width="562" height="368" frameX="-16" frameY="-26" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10007" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10008" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10009" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10010" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10011" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10012" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10013" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10014" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10015" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10016" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10017" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10018" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10019" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10020" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10021" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10022" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10023" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10024" x="2846" y="2104" width="561" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10025" x="3407" y="2104" width="562" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10026" x="3407" y="2104" width="562" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10027" x="0" y="2473" width="570" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10028" x="570" y="2473" width="603" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10029" x="570" y="2473" width="603" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10030" x="1173" y="2473" width="604" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10031" x="1777" y="2473" width="605" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10032" x="1777" y="2473" width="605" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10033" x="2382" y="2473" width="602" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10034" x="2984" y="2473" width="592" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10035" x="3576" y="2473" width="460" height="369" frameX="-17" frameY="-25" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10036" x="0" y="2842" width="448" height="393" frameX="-17" frameY="-1" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10037" x="0" y="2842" width="448" height="393" frameX="-17" frameY="-1" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10038" x="448" y="2842" width="440" height="399" frameX="-17" frameY="0" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10039" x="888" y="2842" width="440" height="394" frameX="-17" frameY="0" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10040" x="1328" y="2842" width="434" height="387" frameX="-17" frameY="-7" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10041" x="1762" y="2842" width="434" height="387" frameX="-17" frameY="-7" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10042" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10043" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10044" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10045" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10046" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10047" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10048" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+	<SubTexture name="Sus down instance 10049" x="2196" y="2842" width="439" height="382" frameX="-17" frameY="-12" frameWidth="622" frameHeight="399"/>
+</TextureAtlas>
