@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MinusGeese-Phase2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minus2 Down Pose instance 10000" x="0" y="0" width="571" height="812" frameX="-136" frameY="-5" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10001" x="571" y="0" width="591" height="510" frameX="-126" frameY="-314" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10002" x="1162" y="0" width="882" height="822" frameX="0" frameY="-20" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10003" x="2044" y="0" width="835" height="833" frameX="-27" frameY="-9" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10004" x="2879" y="0" width="835" height="833" frameX="-27" frameY="-9" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10005" x="3714" y="0" width="835" height="833" frameX="-27" frameY="-9" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10006" x="4549" y="0" width="833" height="827" frameX="-15" frameY="0" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10007" x="5382" y="0" width="820" height="792" frameX="-20" frameY="-43" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10008" x="6202" y="0" width="611" height="684" frameX="-116" frameY="-151" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10009" x="6813" y="0" width="581" height="684" frameX="-131" frameY="-151" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10010" x="7394" y="0" width="581" height="689" frameX="-131" frameY="-146" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10011" x="0" y="833" width="581" height="689" frameX="-131" frameY="-146" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10012" x="581" y="833" width="577" height="649" frameX="-148" frameY="-181" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10013" x="1158" y="833" width="577" height="684" frameX="-148" frameY="-146" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10014" x="1735" y="833" width="565" height="676" frameX="-142" frameY="-142" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10015" x="2300" y="833" width="565" height="672" frameX="-142" frameY="-146" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Down Pose instance 10016" x="2865" y="833" width="565" height="672" frameX="-142" frameY="-146" frameWidth="882" frameHeight="842"/>
+	<SubTexture name="Minus2 Idle instance 10000" x="3430" y="833" width="576" height="682" frameX="-13" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10001" x="4006" y="833" width="577" height="682" frameX="-12" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10002" x="4583" y="833" width="577" height="682" frameX="-12" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10003" x="5160" y="833" width="582" height="690" frameX="-6" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10004" x="5160" y="833" width="582" height="690" frameX="-6" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10005" x="5742" y="833" width="584" height="697" frameX="-4" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10006" x="6326" y="833" width="594" height="695" frameX="0" frameY="-28" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10007" x="6920" y="833" width="592" height="709" frameX="-2" frameY="-14" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10008" x="7512" y="833" width="592" height="710" frameX="-2" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10009" x="0" y="1543" width="589" height="706" frameX="-19" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10010" x="589" y="1543" width="589" height="706" frameX="-19" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10011" x="1178" y="1543" width="577" height="694" frameX="-12" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10012" x="1755" y="1543" width="577" height="700" frameX="-12" frameY="-7" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10013" x="2332" y="1543" width="576" height="694" frameX="-13" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10014" x="2908" y="1543" width="584" height="702" frameX="-4" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10015" x="3492" y="1543" width="582" height="702" frameX="-6" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10016" x="4074" y="1543" width="582" height="690" frameX="-6" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10017" x="4656" y="1543" width="592" height="698" frameX="-2" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10018" x="4656" y="1543" width="592" height="698" frameX="-2" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10019" x="5248" y="1543" width="593" height="698" frameX="-1" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10020" x="5841" y="1543" width="590" height="694" frameX="-18" frameY="-25" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10021" x="6431" y="1543" width="589" height="701" frameX="-19" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10022" x="7020" y="1543" width="576" height="689" frameX="-13" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10023" x="7596" y="1543" width="577" height="693" frameX="-12" frameY="-14" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10024" x="0" y="2249" width="577" height="694" frameX="-12" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10025" x="577" y="2249" width="582" height="702" frameX="-6" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10026" x="1159" y="2249" width="582" height="702" frameX="-6" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10027" x="1741" y="2249" width="582" height="702" frameX="-6" frameY="-13" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10028" x="2323" y="2249" width="592" height="723" frameX="-2" frameY="0" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10029" x="2915" y="2249" width="594" height="691" frameX="0" frameY="-32" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10030" x="3509" y="2249" width="594" height="705" frameX="0" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10031" x="4103" y="2249" width="589" height="701" frameX="-19" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10032" x="4692" y="2249" width="589" height="701" frameX="-19" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Idle instance 10033" x="5281" y="2249" width="576" height="689" frameX="-13" frameY="-18" frameWidth="608" frameHeight="723"/>
+	<SubTexture name="Minus2 Left Pose instance 10000" x="5857" y="2249" width="839" height="718" frameX="-139" frameY="-162" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10001" x="6696" y="2249" width="836" height="718" frameX="-127" frameY="-162" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10002" x="0" y="2972" width="1046" height="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10003" x="1046" y="2972" width="1033" height="883" frameX="-9" frameY="-22" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10004" x="2079" y="2972" width="1009" height="858" frameX="-31" frameY="-46" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10005" x="3088" y="2972" width="980" height="857" frameX="-47" frameY="-47" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10006" x="4068" y="2972" width="680" height="704" frameX="-151" frameY="-161" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10007" x="4068" y="2972" width="680" height="704" frameX="-151" frameY="-161" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10008" x="4748" y="2972" width="691" height="715" frameX="-141" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10009" x="5439" y="2972" width="691" height="715" frameX="-141" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10010" x="6130" y="2972" width="691" height="715" frameX="-141" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10011" x="6821" y="2972" width="696" height="722" frameX="-142" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10012" x="6821" y="2972" width="696" height="722" frameX="-142" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10013" x="0" y="3877" width="696" height="723" frameX="-142" frameY="-157" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10014" x="696" y="3877" width="694" height="718" frameX="-158" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10015" x="1390" y="3877" width="694" height="711" frameX="-158" frameY="-165" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Left Pose instance 10016" x="2084" y="3877" width="680" height="707" frameX="-151" frameY="-158" frameWidth="1046" frameHeight="905"/>
+	<SubTexture name="Minus2 Right Pose instance 10000" x="2764" y="3877" width="754" height="719" frameX="0" frameY="-40" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10001" x="3518" y="3877" width="744" height="720" frameX="-28" frameY="-39" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10002" x="4262" y="3877" width="1032" height="783" frameX="-31" frameY="0" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10003" x="5294" y="3877" width="901" height="772" frameX="-91" frameY="-20" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10004" x="6195" y="3877" width="909" height="766" frameX="-89" frameY="-26" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10005" x="7104" y="3877" width="885" height="768" frameX="-95" frameY="-24" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10006" x="0" y="4660" width="643" height="679" frameX="-112" frameY="-72" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10007" x="643" y="4660" width="643" height="679" frameX="-112" frameY="-72" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10008" x="1286" y="4660" width="643" height="685" frameX="-112" frameY="-66" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10009" x="1929" y="4660" width="663" height="697" frameX="-103" frameY="-62" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10010" x="2592" y="4660" width="663" height="697" frameX="-103" frameY="-62" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10011" x="3255" y="4660" width="663" height="693" frameX="-103" frameY="-66" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10012" x="3918" y="4660" width="659" height="692" frameX="-121" frameY="-62" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10013" x="4577" y="4660" width="659" height="692" frameX="-121" frameY="-62" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10014" x="5236" y="4660" width="638" height="679" frameX="-119" frameY="-64" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10015" x="5874" y="4660" width="638" height="685" frameX="-119" frameY="-58" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Right Pose instance 10016" x="6512" y="4660" width="638" height="681" frameX="-119" frameY="-62" frameWidth="1063" frameHeight="792"/>
+	<SubTexture name="Minus2 Up Pose  instance 10000" x="7150" y="4660" width="589" height="706" frameX="-184" frameY="-86" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10001" x="0" y="5366" width="785" height="752" frameX="-116" frameY="-43" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10002" x="785" y="5366" width="1025" height="821" frameX="-5" frameY="0" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10003" x="1810" y="5366" width="1052" height="802" frameX="0" frameY="-4" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10004" x="2862" y="5366" width="969" height="799" frameX="-35" frameY="-7" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10005" x="3831" y="5366" width="648" height="744" frameX="-165" frameY="-62" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10006" x="4479" y="5366" width="647" height="737" frameX="-166" frameY="-69" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10007" x="5126" y="5366" width="647" height="730" frameX="-166" frameY="-76" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10008" x="5773" y="5366" width="658" height="743" frameX="-162" frameY="-71" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10009" x="6431" y="5366" width="658" height="740" frameX="-162" frameY="-74" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10010" x="7089" y="5366" width="658" height="740" frameX="-162" frameY="-74" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10011" x="0" y="6187" width="654" height="746" frameX="-181" frameY="-63" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10012" x="654" y="6187" width="654" height="735" frameX="-181" frameY="-74" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10013" x="1308" y="6187" width="639" height="723" frameX="-175" frameY="-74" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10014" x="1947" y="6187" width="639" height="676" frameX="-175" frameY="-121" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10015" x="1308" y="6187" width="639" height="723" frameX="-175" frameY="-74" frameWidth="1052" frameHeight="821"/>
+	<SubTexture name="Minus2 Up Pose  instance 10016" x="2586" y="6187" width="647" height="732" frameX="-166" frameY="-74" frameWidth="1052" frameHeight="821"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GuardsBoppin.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Guards-Boppin instance 10000" x="0" y="0" width="851" height="765" frameX="0" frameY="-8" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10001" x="0" y="0" width="851" height="765" frameX="0" frameY="-8" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10002" x="0" y="0" width="851" height="765" frameX="0" frameY="-8" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10003" x="851" y="0" width="846" height="770" frameX="-5" frameY="-3" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10004" x="851" y="0" width="846" height="770" frameX="-5" frameY="-3" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10005" x="1697" y="0" width="839" height="773" frameX="-12" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10006" x="2536" y="0" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10007" x="0" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10008" x="0" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10009" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10010" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10011" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10012" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10013" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10014" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+	<SubTexture name="Guards-Boppin instance 10015" x="836" y="773" width="836" height="773" frameX="-15" frameY="0" frameWidth="851" frameHeight="773"/>
+</TextureAtlas>

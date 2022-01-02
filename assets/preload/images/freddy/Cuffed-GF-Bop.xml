@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuffed-GF-Bop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf cuffed0000" x="0" y="0" width="251" height="452" frameX="-4" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0001" x="251" y="0" width="251" height="452" frameX="-4" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0002" x="502" y="0" width="249" height="452" frameX="-2" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0003" x="502" y="0" width="249" height="452" frameX="-2" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0004" x="751" y="0" width="248" height="451" frameX="-9" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0005" x="999" y="0" width="244" height="451" frameX="-10" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0006" x="999" y="0" width="244" height="451" frameX="-10" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0007" x="1243" y="0" width="240" height="451" frameX="-11" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0008" x="1243" y="0" width="240" height="451" frameX="-11" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0009" x="1243" y="0" width="240" height="451" frameX="-11" frameY="0" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0010" x="1483" y="0" width="233" height="438" frameX="-14" frameY="-13" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0011" x="1716" y="0" width="229" height="429" frameX="-16" frameY="-22" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0012" x="0" y="452" width="231" height="438" frameX="-15" frameY="-13" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0013" x="0" y="452" width="231" height="438" frameX="-15" frameY="-13" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0014" x="0" y="452" width="231" height="438" frameX="-15" frameY="-13" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0015" x="231" y="452" width="240" height="443" frameX="-11" frameY="-8" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0016" x="231" y="452" width="240" height="443" frameX="-11" frameY="-8" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0017" x="471" y="452" width="244" height="446" frameX="-10" frameY="-6" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0018" x="715" y="452" width="244" height="446" frameX="-10" frameY="-6" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0019" x="959" y="452" width="244" height="446" frameX="-10" frameY="-6" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0020" x="1203" y="452" width="250" height="450" frameX="-5" frameY="-2" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0021" x="1203" y="452" width="250" height="450" frameX="-5" frameY="-2" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0022" x="1453" y="452" width="252" height="450" frameX="-5" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0023" x="1453" y="452" width="252" height="450" frameX="-5" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0024" x="1705" y="452" width="251" height="449" frameX="0" frameY="-2" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0025" x="1705" y="452" width="251" height="449" frameX="0" frameY="-2" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0026" x="0" y="902" width="251" height="437" frameX="0" frameY="-14" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0027" x="0" y="902" width="251" height="437" frameX="0" frameY="-14" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0028" x="251" y="902" width="251" height="448" frameX="-4" frameY="-3" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0029" x="502" y="902" width="251" height="450" frameX="-7" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0030" x="502" y="902" width="251" height="450" frameX="-7" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0031" x="753" y="902" width="251" height="451" frameX="-5" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0032" x="753" y="902" width="251" height="451" frameX="-5" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0033" x="1004" y="902" width="251" height="451" frameX="-4" frameY="-1" frameWidth="258" frameHeight="452"/>
+	<SubTexture name="gf cuffed0034" x="1255" y="902" width="251" height="451" frameX="-4" frameY="-1" frameWidth="258" frameHeight="452"/>
+</TextureAtlas>
