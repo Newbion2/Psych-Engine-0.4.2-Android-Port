@@ -1,0 +1,66 @@
+{
+	"storyName": "Bonus week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"geese",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"B-Sides Fresh",
+			"icon-bside",
+			[
+				86,
+				153,
+				255
+			]
+		],
+		[
+			"Monochrome",
+			"icon-monochrome",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Flock BETADCIU",
+			"icon-blantad",
+			[
+				95,
+				193,
+				255
+			]
+		],
+		[
+			"Little Bird",
+			"icon-birb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Epic",
+			"mason",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bonus Week"
+}

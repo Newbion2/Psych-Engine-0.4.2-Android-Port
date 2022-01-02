@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Homage", "bside", [188, 200, 255]],
+		["Neobattle", "neo", [188, 200, 255]],
+		["Cooked", "hell", [188, 200, 255]],
+		["Flightless", "mason-corrupted", [188, 200, 255]],
+		["Mason-Moment", "mason", [188, 200, 255]],
+		["Celebrations", "mason", [188, 200, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Uniquegeese week 2",
+	"weekBefore": "tutorial",
+	"weekName": "Uniquegeese week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["GeeseTune", "mason", [188, 200, 255]],
+		["Flock", "mason", [188, 200, 255]],
+		["Ascend", "mason", [188, 200, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Uniquegeese",
+	"weekBefore": "tutorial",
+	"weekName": "Uniquegeese",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
